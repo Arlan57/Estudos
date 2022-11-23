@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(189, 93, 93);
+    text-shadow:1px 1px 1px #1f1f0c ;
+    font-weight: 100;
+    font-size: 18px;
+    
+}
+
+h1#a {
+    text-align: center;
+    background-color: #fa889f;
+}
+
+h1 {
+    color:#f5eded;
+    
+}
+
+.basico {
+    color: rgb(53, 156, 49);
+}
+
+.intermédiario{
+
+    color: rgb(155, 155, 48);
+}
+
+.avançado {
+    color: rgb(156, 49, 49);
+
+}
+
+p {
+    color: aliceblue;
+    font-weight: 100;
+}
